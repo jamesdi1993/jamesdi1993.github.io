@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+You can view my complete resume [here](https://jamesdi1993.github.io/files/CV_DiYubai_28_03_2019.pdf).
+
 Education
 ======
+* M.S. in Computer Science, University of California, San Diego, 2019 (Expected)
 * B.S. in Mathematics and Computer Science, Pomona College, 2016
-* M.S. in Computer Science, University of California, 2019 (Expected)
 
 Research Experience
+======
 * 2018 - Present: Graduate Researcher
   * Advanced Robotics Lab (ARC), University of San Diego
 * 2015 - 2016: Undergrad Researcher
@@ -22,14 +25,14 @@ Research Experience
 
 Work experience
 ======
-* Summer 2015: Software Engineering Intern
-  * Amazon Web Services, Simple Storage Systems (S3)
+* 2017 - 2018: Software Engineer
+  * Amazon Lab126, Alexa
 
 * 2016 - 2017: Software Engineer
   * Amazon Web Services, Simple Storage Systems (S3)
 
-* 2017 - 2018: Software Engineer
-  * Amazon Lab126, Alexa
+* Summer 2015: Software Engineering Intern
+  * Amazon Web Services, Simple Storage Systems (S3)
   
 Language and Technologies
 ======
