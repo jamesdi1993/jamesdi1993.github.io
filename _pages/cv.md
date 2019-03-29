@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science, Pomona College, 2016
+* M.S. in Computer Science, University of California, 2019 (Expected)
+
+Research Experience
+* 2018 - Present: Graduate Researcher
+  * Advanced Robotics Lab (ARC), University of San Diego
+* 2015 - 2016: Undergrad Researcher
+  * Mathematics Department, Pomona College
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Software Engineering Intern
+  * Amazon Web Services, Simple Storage Systems (S3)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016 - 2017: Software Engineer
+  * Amazon Web Services, Simple Storage Systems (S3)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 - 2018: Software Engineer
+  * Amazon Lab126, Alexa
   
-Talks
+Language and Technologies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Java, Python, Ruby, Matlab, Javascript;
+* ML and Robotics software: PyTorch, TensorFlow, Sklearn, OpenCV, ROS, etc;
+* Web Technologies: AWS suite, Jquery, Bootstrap, Docker, etc;
