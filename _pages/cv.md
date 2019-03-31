@@ -13,13 +13,13 @@ You can view my complete resume [here](https://jamesdi1993.github.io/files/CV_Di
 
 Education
 ======
-* M.S. in Computer Science, University of California, San Diego, 2019 (Expected)
-* B.S. in Mathematics and Computer Science, Pomona College, 2016
+* M.S. in Computer Science, University of California, San Diego, 2020 (Expected)
+* B.A. in Mathematics and Computer Science, Pomona College, 2016
 
 Research Experience
 ======
 * 2018 - Present: Graduate Researcher
-  * Advanced Robotics Lab (ARC), University of San Diego
+  * Advanced Robotics and Control Lab (ARC), University of San Diego
 * 2015 - 2016: Undergrad Researcher
   * Mathematics Department, Pomona College
 
