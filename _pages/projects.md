@@ -8,8 +8,7 @@ feature_row:
   - image_path: /assets/images/VI_Slam.png
     alt: "Visual-Inertial SLAM"
     title: "Visual-Inertial SLAM"
-    excerpt: "This project uses IMU and visual features as sensing modalities, and the goal of the project is to track vehicle pose 		 and landmark positions over time. The project uses Extended Kalman Filter to accomplish Simultaneous Localization and 
-    		 Mapping (SLAM)."
+    excerpt: "This project uses IMU and visual features as sensing modalities, and the goal of the project is to track vehicle pose and landmark positions over time. The project uses Extended Kalman Filter to accomplish Simultaneous Localization and Mapping (SLAM)."
     url: "https://github.com/jamesdi1993/VisualSLAM"
     btn_label: "Code"
 
