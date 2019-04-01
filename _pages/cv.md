@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a pdf file for my [CV](https://jamesdi1993.github.io/files/CV_DiYubai_28_03_2019.pdf).
+Here is a pdf file for my [CV](https://jamesdi1993.github.io/files/CV_DiYubai_31_03_2019.pdf).
 
 Education
 ======
