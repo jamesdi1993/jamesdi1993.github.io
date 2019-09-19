@@ -22,7 +22,7 @@ feature_row1:
     excerpt: "This project implements two motion planners of different classes, A* and Bi-directional RRT. Both planners are tested on six different 3D environments and performance metrics are compared for the two planners."
     url: "https://github.com/jamesdi1993/ece276b-motion-planning"
     btn_label: "Code"
-  - image_path: https://i.imgur.com/r3VY9XT.gif
+  - image_path: https://i.imgur.com/Kr3rD7n.gif
     alt: "Mountain Car RL"
     title: "Mountain Car RL"
     excerpt: "We solve the mountain car problem in OpenAI using Reinforcement techniques. We implemented On-policy and Off-policy TD-Learning for this project."
